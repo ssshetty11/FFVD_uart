@@ -12,6 +12,8 @@ UART is a Hardware based digital communication protocol used to transmit data be
 ## Codecoverage:
 ![image](https://github.com/ssshetty11/FFVD_uart/assets/113935931/99b41322-8bcc-4cc8-b32f-f6d2fa43b028)
 
+##CodeCoverage for the layered testbench
+![layeredTb (2)](https://github.com/ssshetty11/FFVD_uart/assets/113935931/bece281f-7385-48aa-b664-07b447df4701)
 
 
 
